@@ -344,7 +344,7 @@ function Hero({ onNext }: { onNext: () => void }) {
           />
         </div>
         <button className="btn-pink mt-8 text-lg shadow-lg" onClick={onNext}>
-          See our memories 📸
+          Look at You! 📸
         </button>
       </div>
     </section>
